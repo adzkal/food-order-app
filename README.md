@@ -79,7 +79,7 @@ Bisa menggunakan GitHub Pages, Firebase Hosting, atau InfinityFree
 - Password : bebas
 
 ## 8.) Link Deployment / Link APK / Link Demo Video
-- Link Deployment :
+- Link Deployment : https://adzkal.github.io/food-order-app/
 - Link Demo Video :
 
 ## 9.) Screenshot Halaman Utama
