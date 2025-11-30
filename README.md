@@ -62,8 +62,10 @@ Tidak diperlukan instalasi khusus. Cukup download project atau clone repository.
 *Cukup buka file berikut di browser:
 - index.html → tampilan User
 - admin.html → tampilan Admin
+  
 Atau jika bisa langsung ditampilan tinggal pilih ingin masuk sebagai admin/user
 menggunakan email dan password yang sesuai
+
 *Jika ingin hosting:
 Bisa menggunakan GitHub Pages, Firebase Hosting, atau InfinityFree
 
